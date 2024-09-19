@@ -13,7 +13,7 @@ Este script en Python está diseñado para extraer información de archivos PDF 
 
 Puedes instalar las dependencias necesarias usando `pip`:
 
-    pip install pdfplumber python-docx language_tool_python
+pip install pdfplumber python-docx language_tool_python
 
 ## Uso
 
